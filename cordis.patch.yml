@@ -1,0 +1,4 @@
+# dsh-task-toast bundle patch: mount the plugin into the profile tree.
+- insert:
+    - id: task-toast
+      name: dsh-task-toast
